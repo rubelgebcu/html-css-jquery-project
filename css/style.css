@@ -6,7 +6,7 @@
 }
 .owl-slider1 img{
     max-width: 100%;
-    height: 650 px;
+    height: 750px;
 }
 .owl-slider1 button.owl-next{
     background-color: tomato!important;
@@ -42,7 +42,7 @@
 
 .card-img{
     width: 100%!important;
-    height: 250px!important;
+    height: 200px!important;
 }
 
 .owl-nav { display: block !important; }
